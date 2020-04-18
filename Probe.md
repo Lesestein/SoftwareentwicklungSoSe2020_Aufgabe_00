@@ -17,12 +17,14 @@ Einige der Elemente von C++, die im Allgemeinen als unsicher gelten, wie beispie
 
 ### 3. Entwicklungsschritte 
 
-2002 	.NET 1.0 	C# 1.0 
-2003 	.NET 1.1 	C# 1.2 
-2005 	.NET 2.0  C# 2.0
-2006 	.NET 2.0  C# 3.0
-2010 	.NET 4.0 	C# 4.0 
-2019 	.NET Core 3 	C#8.0 
+Jahr    |                   |              |
+---     |   ---             |   ---
+2002    |	.NET 1.0 	    |   C# 1.0 
+2003 	|   .NET 1.1 	    |   C# 1.2 
+2005 	|   .NET 2.0        |   C# 2.0
+2006 	|   .NET 2.0        |   C# 3.0
+2010 	|   .NET 4.0 	    |   C# 4.0 
+2019 	|   .NET Core 3 	|   C# 8.0 
 
 ### 4. Hello World Beispil 
 
